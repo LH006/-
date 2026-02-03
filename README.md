@@ -1,10 +1,10 @@
-Arduino core for ESP8266 WiFi chip
+Arduino
 ===========================================
 
 # Quick links
 
 - [Latest release documentation](https://arduino-esp8266.readthedocs.io/en/3.1.2/)
-- [Current "git version" documentation](https://arduino-esp8266.readthedocs.io/en/latest/)
+- [Current "버전" documentation](https://arduino-esp8266.readthedocs.io/en/latest/)
 - [Install git version](https://arduino-esp8266.readthedocs.io/en/latest/installing.html#using-git-version) ([sources](doc/installing.rst#using-git-version))
 
 # Arduino on ESP8266
