@@ -31,7 +31,8 @@ ESP8266 Arduino core comes with libraries to communicate over WiFi using TCP and
 링크: `https://1.com/index.json`
 링크: [링크 보이는 글](https://1.com/)
 
-### Contents 2 [내용2]
+### Contents 2
+ [내용2]
 - When using [Arduino IDE](https://www.arduino.cc/en/software), follow [our instructions here](https://arduino-esp8266.readthedocs.io/en/latest/installing.html#using-git-version).
 - When using [PlatformIO](https://platformio.org/install), refer to [platformio/espressif8266 platform documentation](https://docs.platformio.org/en/stable/platforms/espressif8266.html#using-arduino-framework-with-staging-version).
 
