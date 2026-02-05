@@ -1,6 +1,5 @@
 Arduino
 ==========================
-==========================
 
 # Quick links
 
@@ -8,14 +7,15 @@ Arduino
 - [Current "버전"]
 - [Install] ([sources](doc/installing.rst#using-git-version))
 
-# Arduino on ㅋㅋㅋㅋㅋㅋㅋ
-This project
+# Arduino project
 ESP8266 Arduino core comes with libraries to communicate over WiFi using TCP and UDP, set up HTTP, mDNS, SSDP, and DNS servers, do OTA updates, use a file system in flash memory, and work with SD cards, servos, SPI and I2C peripherals.
 
 # 내용(Contents)
-- Installing options:
-  - [내용1](#installing-with-boards-manager)
+- 설명문:
+  - [내용1](#i-1)
   - [내용2](#using-git-version)
+'### Using git version'
+"### Using git version"
   - [내용3](#using-platformio)
   - [내용4](#building-with-make)
 - [내용5](#documentation)
@@ -26,7 +26,7 @@ ESP8266 Arduino core comes with libraries to communicate over WiFi using TCP and
 
 ## 2개
 
-### 내용1
+### i 1
 내용1 문서
 
 - 점 리스트 링크 (https://1.com)
@@ -37,6 +37,7 @@ ESP8266 Arduino core comes with libraries to communicate over WiFi using TCP and
 Boards manager link: `https://arduino.esp8266.com/stable/package_esp8266com_index.json`
 
 Documentation: [https://arduino-esp8266.readthedocs.io/en/3.1.2/](https://arduino-esp8266.readthedocs.io/en/3.1.2/)
+
 
 ### Using git version
 내용2
