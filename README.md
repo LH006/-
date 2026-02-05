@@ -23,7 +23,7 @@ Arduino
 ### Contents 1
 * 아아아아아아
 - 점 리스트 링크: (https://1.com)
-- 점 링크: 'https://1.com/index.json'
+- 점 링크: `https://1.com/index.json`
 
 - 링크: `https://1.com/index.json`
 
