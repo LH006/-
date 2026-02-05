@@ -1,14 +1,14 @@
 Arduino
 ==========================
 
-# Quick links
+# 즐겨찾기
 
-- [Latest release documentation]()
-- [Current "버전"]
-- [Install] ([sources](doc/installing.rst#using-git-version))
+- [링크1]()
+- [링크2 "버전"]
+- [링크3] ([sources](doc/installing.rst#using-git-version))
 
 # Arduino project
-ESP8266 Arduino core comes with libraries to communicate over WiFi using TCP and UDP, set up HTTP, mDNS, SSDP, and DNS servers, do OTA updates, use a file system in flash memory, and work with SD cards, servos, SPI and I2C peripherals.
+ESP8266
 
 # 내용(Contents)
 - 설명문:
