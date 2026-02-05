@@ -36,8 +36,7 @@ Boards manager link: `https://arduino.esp8266.com/stable/package_esp8266com_inde
 Documentation: [https://arduino-esp8266.readthedocs.io/en/3.1.2/](https://arduino-esp8266.readthedocs.io/en/3.1.2/)
 
 
-### Contents 2
-내용2
+### Contents 2 [내용2]
 
 - When using [Arduino IDE](https://www.arduino.cc/en/software), follow [our instructions here](https://arduino-esp8266.readthedocs.io/en/latest/installing.html#using-git-version).
 - When using [PlatformIO](https://platformio.org/install), refer to [platformio/espressif8266 platform documentation](https://docs.platformio.org/en/stable/platforms/espressif8266.html#using-arduino-framework-with-staging-version).
