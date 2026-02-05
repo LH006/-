@@ -8,7 +8,7 @@ Arduino
 - [링크3] ([sources](doc/installing.rst#using-git-version))
 
 # Arduino project
-ESP8266
+  * ESP8266
 
 # 내용(Contents)
 - 설명문:
@@ -17,23 +17,23 @@ ESP8266
   - [내용3](#using-platformio)
   - [내용4](#building-with-make)
 - [내용5](#documentation)
-- [내용6](#issues-and-support)
-- [내용7](#contributing)  
-- [내용8](#license-and-credits)   
+- [내용6](#issues-and-support) 
 
 
-## Contents 1
+### Contents 1
 * 아아아아아아
 - 점 리스트 링크: (https://1.com)
-- 점 리스트 링크: 'https://1.com/index.json'
+- 점 링크: 'https://1.com/index.json'
 
-###### Latest release [![Latest release](https://img.shields.io/github/release/esp8266/Arduino.svg)](https://github.com/esp8266/Arduino/releases/latest/)
+- 링크: `https://1.com/index.json`
+
+#### Latest release [![Latest release](https://img.shields.io/github/release/esp8266/Arduino.svg)](https://github.com/esp8266/Arduino/releases/latest/)
 
 - 링크: `https://1.com/index.json`
 - 링크: [링크 보이는 글](https://1.com/)
 
 ### Contents 2
- [내용2]
+#### [내용2]
 - When using [Arduino IDE](https://www.arduino.cc/en/software), follow [our instructions here](https://arduino-esp8266.readthedocs.io/en/latest/installing.html#using-git-version).
 - When using [링크1](https://platformio.org/install), refer to [링크2](https://docs.platformio.org/en/stable/platforms/espressif8266.html#using-arduino-framework-with-staging-version).
 
