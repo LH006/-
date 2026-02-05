@@ -25,9 +25,9 @@ ESP8266
 ## Contents 1
 * 아아아아아아
 - 점 리스트 링크: (https://1.com)
-- 점 리스트 링크: 'https://1.com'
+- 점 리스트 링크: 'https://1.com/index.json'
 
-#### Latest release [![Latest release](https://img.shields.io/github/release/esp8266/Arduino.svg)](https://github.com/esp8266/Arduino/releases/latest/)
+###### Latest release [![Latest release](https://img.shields.io/github/release/esp8266/Arduino.svg)](https://github.com/esp8266/Arduino/releases/latest/)
 
 - 링크: `https://1.com/index.json`
 - 링크: [링크 보이는 글](https://1.com/)
