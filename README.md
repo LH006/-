@@ -12,8 +12,8 @@ ESP8266 Arduino core comes with libraries to communicate over WiFi using TCP and
 
 # 내용(Contents)
 - 설명문:
-  - [내용1](#i-1)
-  - [내용2](#using-git-version)
+  - [내용1](#내용-1) - 공백표시
+  - [내용2](#내용-2)
 '### Using git version'
 "### Using git version"
   - [내용3](#using-platformio)
@@ -24,11 +24,8 @@ ESP8266 Arduino core comes with libraries to communicate over WiFi using TCP and
 - [내용8](#license-and-credits)   
 
 
-## 2개
-
-### i 1
-내용1 문서
-
+### 내용 1
+* 아아아아아아
 - 점 리스트 링크 (https://1.com)
 - 점 리스트 링크 'https://1.com'
 - Open Boards Manager from Tools > Board
