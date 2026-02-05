@@ -12,16 +12,19 @@ Arduino
 This project
 ESP8266 Arduino core comes with libraries to communicate over WiFi using TCP and UDP, set up HTTP, mDNS, SSDP, and DNS servers, do OTA updates, use a file system in flash memory, and work with SD cards, servos, SPI and I2C peripherals.
 
-# Contents
+# 내용(Contents)
 - Installing options:
-  - [Using Boards Manager](#installing-with-boards-manager)
-  - [목록1](#using-git-version)
-  - [Using PlatformIO](#using-platformio)
-  - [Building with make](#building-with-make)
-- [Documentation](#documentation)
-- [Issues and support](#issues-and-support)
-- [Contributing](#contributing)  
-- [License and credits](#license-and-credits)   
+  - [내용1](#installing-with-boards-manager)
+  - [내용2](#using-git-version)
+  - [내용3](#using-platformio)
+  - [내용4](#building-with-make)
+- [내용5](#documentation)
+- [내용6](#issues-and-support)
+- [내용7](#contributing)  
+- [내용8](#license-and-credits)   
+
+
+## 2개
 
 ### Installing with Boards Manager
 
