@@ -3,7 +3,7 @@ Arduino
 
 # 즐겨찾기
 
-- [링크1]([ESP8266](https://github.com/esp8266/))
+- [링크1][ESP8266](https://github.com/esp8266/)
 - [링크2 "버전"]
 - [링크3] ([sources](doc/installing.rst#using-git-version))
 
