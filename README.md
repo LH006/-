@@ -26,9 +26,8 @@ ESP8266 Arduino core comes with libraries to communicate over WiFi using TCP and
 
 ## 2개
 
-### Installing with Boards Manager
-
-Starting with 1.6.4, Arduino allows installation of third-party platform packages using Boards Manager. We have packages available for Windows, Mac OS, and Linux (32 and 64 bit).
+### 내용1
+내용1 문서
 
 - [Download and install Arduino IDE 1.x or 2.x](https://www.arduino.cc/en/software)
 - Start Arduino and open the Preferences window
